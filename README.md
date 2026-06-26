@@ -21,7 +21,7 @@ Features added
 Running
 -------
 
-Use `cd src && gcc -o ../lsh *.c` to compile, and then `./lsh` to run.
+Use `cd src && gcc -o ../lshx *.c` to compile, and then `./lshx` to run.
 
 License
 -------
